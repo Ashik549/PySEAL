@@ -1,5 +1,6 @@
 # Goal of this fork
 Using PySEAL library to implement a Machine Learning algorithm which can operate on homomorphically encrypted data.
+I have implemented Naive Bayes classifier algorithm in the SEALPythonExamples/examples.py file. 
 
 
 # PySEAL
